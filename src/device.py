@@ -8,3 +8,6 @@ def get_cpu_usage():
 
 def get_memory_usage():
     return 40
+    
+def get_temperature():
+    return 45
